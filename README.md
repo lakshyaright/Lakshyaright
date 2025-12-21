@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**lakshyaright/Lakshyaright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Lakshya Right / Tech Rescue</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  your-logo-url
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Website:
+https://yourwebsite.com
+
+---
+
+## 🎯 Our Mission
+Our mission is to help individuals learn and grow by providing high‑quality educational resources, hands‑on training, and practical guidance.
+
+---
+
+## 🧩 Our Services
+- Learning resources and documentation  
+- Hands-on training programs  
+- Step-by-step educational guides  
+- Tech tutorials and project-based learning  
+- Mentorship and community support  
+
+---
+
+## 🎓 Training Programs
+We offer beginner to advanced training programs designed to help learners understand concepts clearly and apply them through real-world practice.
+
+---
+
+## 📫 Contact Us
+- Email: yourmail@example.com  
+- LinkedIn: https://linkedin.com/in/yourprofile  
+- GitHub: https://github.com/yourusername  
