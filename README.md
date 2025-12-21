@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Website:
-https://yourwebsite.com
+https://Github.com/lakshyaright
 
 ---
 
@@ -32,6 +32,6 @@ We offer beginner to advanced training programs designed to help learners unders
 ---
 
 ## 📫 Contact Us
-- Email: yourmail@example.com  
+- Email: lakshyaright@gmail.com 
 - LinkedIn: https://linkedin.com/in/yourprofile  
-- GitHub: https://github.com/yourusername  
+- GitHub: [https://github.com/lakshyaright  
