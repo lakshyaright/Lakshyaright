@@ -1,3 +1,4 @@
+[Uploading Sonu Yadav.pdf…]()
 [Amit resume.pdf](https://github.com/user-attachments/files/24286392/Amit.resume.pdf)
 [Amit Yadav-1.pdf](https://github.com/user-attachments/files/24286356/Amit.Yadav-1.pdf)
 
