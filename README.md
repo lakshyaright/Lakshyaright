@@ -1,6 +1,7 @@
 [Sonu Yadav.pdf](https://github.com/user-attachments/files/24303168/Sonu.Yadav.pdf)
 [Amit resume.pdf](https://github.com/user-attachments/files/24286392/Amit.resume.pdf)
-[Amit Yadav-1.pdf](https://github.com/user-attachments/files/24286356/Amit.Yadav-1.pdf)[Uploading Sonu Yadav.pdf…]()
+[Madhu Documents.pdf](https://github.com/user-attachments/files/24358628/Madhu.Documents.pdf)
+
 
 
 <h1 align="center">Lakshya Right / Tech Rescue</h1>
