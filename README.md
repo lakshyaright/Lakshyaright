@@ -1,3 +1,4 @@
+[Sonu.Yadav  Updated.pdf](https://github.com/user-attachments/files/24379469/Sonu.Yadav.Updated.pdf)
 [Sonu Yadav.pdf](https://github.com/user-attachments/files/24303168/Sonu.Yadav.pdf)
 [Amit resume.pdf](https://github.com/user-attachments/files/24286392/Amit.resume.pdf)
 [Madhu Documents.pdf](https://github.com/user-attachments/files/24358628/Madhu.Documents.pdf)
