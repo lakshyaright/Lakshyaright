@@ -1,6 +1,8 @@
 [Sonu.Yadav  Updated.pdf](https://github.com/user-attachments/files/24379469/Sonu.Yadav.Updated.pdf)
 [Sonu Yadav.pdf](https://github.com/user-attachments/files/24303168/Sonu.Yadav.pdf)
 [Amit resume.pdf](https://github.com/user-attachments/files/24286392/Amit.resume.pdf)
+[Submit_Resignation__Madhu_Bhatia_(5699613) (1).pdf](https://github.com/user-attachments/files/24432048/Submit_Resignation__Madhu_Bhatia_.5699613.1.pdf)
+
 
 
 
